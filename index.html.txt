@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equi="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>AnimatedLoginPage</title>
+        <link rel="stylesheet" href="animatedlog.css">
+    </head>
+    <body>
+        <div class="form-container">
+            <h2 class="login-title">Login</h2>
+            <input type="text" name="text" class="UserName" placeholder="UserName">
+            <input type="password" name="password" class="UserPassword" placeholder="password">
+            <button class="loginBtn">Login</button>
+        </div>
+    </body>
+</html>
